@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1737590400&v=beta&t=CZ_LOH6Zjgm3bLwL-syrnUEzuJHYG5ix3Afg6X6J23c)](https://hemadrianjali.io)
 <h1 align="center">Hi 👋, I'm Anjali S</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">💻 Aspiring Full-stack Developer | 🌐 Frontend Enthusiast | 🎓 BCA Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/RishuRajan/RishuRajan/master/Rishu.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemadrianjali&label=Profile%20views&color=0e75b6&style=flat" alt="hemadrianjali" /> </p>
